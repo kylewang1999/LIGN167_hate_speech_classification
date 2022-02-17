@@ -9,7 +9,7 @@ Investigate domain-specific pre-training on improving the performance of hate sp
   - This should spawn a bash terminal
 - Step5: Clone project repo in the new terminal, by running: 
 
-  ```git clone https://github.com/kylewang1999/LIGN167_hate_speech_classification.git``
+  ```git clone https://github.com/kylewang1999/LIGN167_hate_speech_classification.git```
 
   **NOTE**: GitHub now requires personal access token for ssh authentication. See [here](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) for how to create the token.
 - Step6: (Only after the first clone) Download dataset by running: 
